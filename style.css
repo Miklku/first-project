@@ -3,7 +3,21 @@
     height: 80%;
 }
 
-p {
-    font-size: f000;
-    
+.p {
+    font-size: 18px;
+
 }
+
+h1 {
+    font-size: 36px;
+}
+
+.div {
+    width: 500px;
+    height: 500px;
+}
+
+.h2 {
+    color: brown;
+}
+
